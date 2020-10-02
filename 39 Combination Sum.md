@@ -8,7 +8,7 @@
 
 所以看了一下discussion：
 
-```
+```c++
 class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
